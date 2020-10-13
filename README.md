@@ -6,4 +6,4 @@ Monitoring Scripts <br>
 ### powershell.sh <br>
 Simpple script for installing Microsoft Powershell on CentOS 7
 ### powercli.ps1 <br>
-Simple script for installing PowerCLI modules for intereacting with VMWare ESXi
+Simple script for installing PowerCLI modules for interacting with VMWare ESXi through PowerShell.
